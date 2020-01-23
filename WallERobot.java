@@ -1,4 +1,4 @@
-/** written by Talin Arya 
+/** Copyright 2020, written by Talin Arya 
 returns how the robot will talk */
 public class WallERobot extends Robot {
     public WallERobot(String name) {

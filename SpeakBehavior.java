@@ -1,4 +1,4 @@
-/** Written by Talin Arya 
+/**Copyright 2020, Written by Talin Arya 
 returns what the robot will respond with the given strings */
 import java.util.Random;
 

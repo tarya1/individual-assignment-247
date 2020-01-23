@@ -1,4 +1,4 @@
-/** Written by Talin Arya
+/** Copyright 2020, Written by Talin Arya
  Driver Class */
 public class DigitalWorldDriver {
     public void runWorld() {

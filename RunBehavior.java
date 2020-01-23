@@ -1,4 +1,4 @@
-/** Written by Talin Arya 
+/** Copyright 2020, Written by Talin Arya 
 returns how the behavior class will run */
 public class RunBehavior implements MoveBehavior {
     public String move() {

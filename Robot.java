@@ -1,4 +1,4 @@
-/** Written By Talin Arya 
+/**Copyright 2020, Written By Talin Arya 
 abstract class of all the child classes */
 abstract class Robot {
     protected String name;

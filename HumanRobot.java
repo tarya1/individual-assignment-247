@@ -1,4 +1,4 @@
-/** Written by Talin Arya 
+/** Copyright 2020, Written by Talin Arya 
 Robot's child class */
 public class HumanRobot extends Robot {
     public HumanRobot(String name) {
